@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m a student at the University of Zurich.
+
+Currently I’m majoring in People-Oriented Computing for my master’s degree.
+I do Web Development as side-hustle, and I’m into self-hosting as a hobby. For the latter I might contribute to some open-source projects on here 😉.
+
 <!--
 **Nintend0d0/Nintend0d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
